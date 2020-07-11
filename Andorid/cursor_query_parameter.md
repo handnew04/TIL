@@ -30,14 +30,13 @@ Cursor cursor = context .getContentResolver() .query(uri, projection, selection,
     -   SQL where 절
     -   쿼리의 결과를 찾을 행 조건
     -   null 일 경우 모든 데이터 반환
-</br>
+
 4.  selectionArgs
     -   selelction을 지정하였을 경우, where 절에 해당하는 값들을 배열로 넣어줌
-</br>
+    
+
 5.  sortOrder
-    
     -   결과 값의 정렬 조건
-    
     ```
     String sortOrder = ContactsContract.CommonDataKinds.Phone.DISPLAY_NAME + " COLLATE LOCALIZED ASC";
     ```
