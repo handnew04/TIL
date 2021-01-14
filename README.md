@@ -5,3 +5,6 @@
 
 ### Spring
 - [디스패쳐 서블릿](/Spring/dispatcher_servlet.md)
+
+### Database
+- [Lock, Deadlock](/Database/lock_deadlock.md)
