@@ -1,4 +1,4 @@
-# 간략히 작성하는 내용
+# 간략히 작성하는 내용들 
 
 ### Android
 - [커서, 쿼리 파라미터](/Android/cursor_query_parameter.md)
