@@ -1,4 +1,5 @@
 ### Swift
+- [앱 폴더 경로 보이게 하기](/Swift/앱%20폴더%20경로보이게하기.md)
 - [[Moya] 파라미터 여러 개인 Get request](/Swift/String%20문자열%20중간%20문자%20얻기.md)
 - [[SwiftUI] Text 말 줄임표 없이 긴 텍스트 넣기](/Swift/String%20문자열%20중간%20문자%20얻기.md)
 - [String 문자열 중간 문자 얻기](/Swift/String%20문자열%20중간%20문자%20얻기.md)
