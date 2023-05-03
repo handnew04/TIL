@@ -4,7 +4,7 @@ PUT에서의 Query로 들어가는 파라미터는 `URLEncoding.queryString`으�
 Get의 파라미터가 pram1, pram2라면
 
 ```swift
-URLEncoding => ["param1" : param1, "param2": param2]
+URLEncoding() => ["param1" : param1, "param2": param2]
 ```
 
 PUT의 경우
