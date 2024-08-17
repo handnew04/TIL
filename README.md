@@ -21,3 +21,6 @@
 
 ### Database
 - [Lock, Deadlock](/Database/lock_deadlock.md)
+
+### OS
+- [운영체제 강의기록](https://handnew.notion.site/cd3fbc4cb1cc46beb4fe34d38212b3a5?pvs=4)
